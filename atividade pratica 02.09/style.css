@@ -1,0 +1,30 @@
+#h2 {
+    font-size: 35px;
+    color: forestgreen;
+    font-style: italic;
+    
+    
+}
+
+#lista {
+    background-color: yellow;
+    font-size: 20px;
+    font-style: oblique;
+    font-weight: bold;
+    
+    
+}
+
+.imagens {
+    border: 8px blue solid;
+    border-radius: 80px;
+
+    
+    
+}
+
+#body {
+    display: block;
+    margin: 0 auto;
+    text-align: ;
+}
